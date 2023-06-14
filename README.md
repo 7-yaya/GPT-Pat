@@ -1,2 +1,1 @@
-# GPT-Pat
-GPT Generated Text Detection with GPT Genetic Inheritance
+Debug and add a new function
