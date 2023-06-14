@@ -1,1 +1,1 @@
-Debug and add a new fuction
+Debug and add a new function
